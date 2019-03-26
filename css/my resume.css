@@ -14,3 +14,8 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-light
 .my-4{
 	font-family: 'Noto Sans TC', sans-serif;
 }
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Noto Sans TC', sans-serif;
+	line-height: 7rem;
+}
+	
