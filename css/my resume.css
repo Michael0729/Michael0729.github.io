@@ -18,5 +18,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	line-height: 7rem;
 }
-.mw-100 { max-width: 100% !important; }
-.mh-100 { max-height: 100% !important; }
+section.resume-section {
+    padding-top: 0rem!important;
+    padding-bottom: 0rem!important;
+    max-width: 0rem;
